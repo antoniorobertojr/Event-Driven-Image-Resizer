@@ -1,5 +1,4 @@
-
-# Amazon S3 Image Upload and Processing Workflow
+# Event Driven Image Resizer
 
 This project provides an AWS cloud infrastructure to upload images to S3, automatically resize them with AWS Lambda, and notify the user via SNS.
 
